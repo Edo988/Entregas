@@ -1,0 +1,1 @@
+El DS elegido es respecto a las compras realizadas en un shopping en el cual se puede observar datos como las compras por categorias,genero, metodos de pago y edades. Aunque en esta ultima no logre comprender por qué motivo no se muestran las edades o no logro enteder como visuallizarlo.
