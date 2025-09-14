@@ -2,7 +2,7 @@ El DS elegido es respecto a las compras realizadas en un shopping en el cual se 
 
 ENTREGA FINAL DS
 
-1-Se continua con el Data Set elegido y en la misma Notebook de la primera entrega para dar continuidad al trabajo (no se elimino nada de lo anterior, mas que las consignas de la primera entrega); detalle las consignas del trabajo final seguido a lo realizado en la primera entrega. 
+1-Se continua con el Data Set elegido y en la misma Notebook de la primera entrega para dar continuidad al trabajo (no se elimino nada de lo anterior, mas que las consignas de la primera entrega, pero las mismas se encuentran escritas dentro de los comentarios de cada selda a ejecutar); detalle las consignas del trabajo final seguido a lo realizado en la primera entrega. 
 
 3-Se modifica Hipotesis respecto a la primera entrega y se corrige la conclusion respecto al rango de compras en el item: #1.D-Se realizan mas compras de montos bajos que de montos altos?.
 
